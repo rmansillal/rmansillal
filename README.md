@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Data Analysis, Machine Learning, Feature Importance**
 
-- 📫 How to reach me **roberto.mansilla@nottingham.ac.uk**
+- 📫 How to reach me **roberto.mansillalobos@nottingham.ac.uk**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/roberto-mansilla-lobos/](https://www.linkedin.com/in/roberto-mansilla-lobos/)
 
